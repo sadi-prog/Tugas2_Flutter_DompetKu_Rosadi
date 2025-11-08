@@ -2,7 +2,7 @@
 
 ![Login Page](https://github.com/sadi-prog/MOBPRO2_LoginUI_Rosadi_Aldi_MuhamadGaji/blob/main/assets/login.JPG?raw=true)
 ![Login Page](https://github.com/sadi-prog/Tugas2_Flutter_DompetKu_Rosadi/blob/main/assets/spless.JPG)
-![Login Page](https://github.com/sadi-prog/Tugas2_Flutter_DompetKu_Rosadi/blob/main/assets/spless.JPG)
+![Login Page](https://github.com/sadi-prog/Tugas2_Flutter_DompetKu_Rosadi/blob/main/assets/home.JPG)
 ![Login Page](https://github.com/sadi-prog/Tugas2_Flutter_DompetKu_Rosadi/blob/main/assets/home2.JPG)
 
 A new Flutter project that serves as a **Login UI demo** for the Mobile Programming 2 course.
