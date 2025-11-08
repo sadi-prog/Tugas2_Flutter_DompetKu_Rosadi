@@ -17,12 +17,12 @@ A new Flutter project that serves as a **Login UI demo** for the Mobile Programm
 
 ---
 
-## 📱 Deskripsi Project
-Aplikasi ini menampilkan halaman **Login UI Flutter** dengan fitur dasar:
-- Input **Email / Username**
-- Input **Password**
-- Tombol **Login** dan **Register**
-- Desain responsif dan user-friendly
+Aplikasi **DompetKu** dibuat menggunakan Flutter untuk membantu pengguna mengatur keuangan harian.  
+Fitur yang tersedia:
+- 💸 Catatan pemasukan dan pengeluaran
+- 🎯 Kategori transaksi (Makanan, Hiburan, Transportasi, dll)
+- 📊 Tampilan dashboard keuangan interaktif
+- 🔐 Login
 
 ---
 
